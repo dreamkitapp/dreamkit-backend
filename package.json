@@ -1,0 +1,14 @@
+{
+  "name": "dreamkit-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dreamkitapp/dreamkit-backend.git",
+  "author": "dpadron08 <43192580+dpadron08@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
